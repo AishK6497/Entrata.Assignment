@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-06T19:07:58 IST" name="Surefire suite" finished-at="2024-02-06T19:08:41 IST" duration-ms="43324">
+    <groups>
+    </groups>
+    <test started-at="2024-02-06T19:07:58 IST" name="Surefire test" finished-at="2024-02-06T19:08:41 IST" duration-ms="43324">
+      <class name="com.test.TestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.TestCases@48aaecc3]" started-at="2024-02-06T19:07:58 IST" name="setUp" finished-at="2024-02-06T19:08:06 IST" duration-ms="7773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navigateToProductsPage()[pri:0, instance:com.test.TestCases@48aaecc3]" started-at="2024-02-06T19:08:06 IST" name="navigateToProductsPage" finished-at="2024-02-06T19:08:13 IST" duration-ms="7521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToProductsPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.TestCases@48aaecc3]" started-at="2024-02-06T19:08:13 IST" name="tearDown" finished-at="2024-02-06T19:08:16 IST" duration-ms="2631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.TestCases@48aaecc3]" started-at="2024-02-06T19:08:16 IST" name="setUp" finished-at="2024-02-06T19:08:20 IST" duration-ms="3913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInteractWithForm()[pri:1, instance:com.test.TestCases@48aaecc3]" started-at="2024-02-06T19:08:20 IST" name="testInteractWithForm" finished-at="2024-02-06T19:08:25 IST" duration-ms="5147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInteractWithForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.TestCases@48aaecc3]" started-at="2024-02-06T19:08:25 IST" name="tearDown" finished-at="2024-02-06T19:08:26 IST" duration-ms="1191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.TestCases@48aaecc3]" started-at="2024-02-06T19:08:26 IST" name="setUp" finished-at="2024-02-06T19:08:30 IST" duration-ms="4176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dynamicElement()[pri:2, instance:com.test.TestCases@48aaecc3]" started-at="2024-02-06T19:08:30 IST" name="dynamicElement" finished-at="2024-02-06T19:08:30 IST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamicElement -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.TestCases@48aaecc3]" started-at="2024-02-06T19:08:30 IST" name="tearDown" finished-at="2024-02-06T19:08:32 IST" duration-ms="1498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.TestCases@48aaecc3]" started-at="2024-02-06T19:08:32 IST" name="setUp" finished-at="2024-02-06T19:08:36 IST" duration-ms="4114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getAllLinksFromProductPage()[pri:3, instance:com.test.TestCases@48aaecc3]" started-at="2024-02-06T19:08:36 IST" name="getAllLinksFromProductPage" finished-at="2024-02-06T19:08:40 IST" duration-ms="3769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllLinksFromProductPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.TestCases@48aaecc3]" started-at="2024-02-06T19:08:40 IST" name="tearDown" finished-at="2024-02-06T19:08:41 IST" duration-ms="1452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.TestCases -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
