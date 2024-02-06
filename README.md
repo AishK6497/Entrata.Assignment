@@ -1,7 +1,7 @@
 
 ## Running the Tests
 
-1. Clone the repository: `git clone https://github.com/yourusername/selenium-java-project.git`
+1. Clone the repository: `git clone https://github.com/yourusername/selenium-java-project.git `
 2. Navigate to the project directory: `cd EntrataWebApplication`
 3. Open the project in your preferred Java IDE (Eclipse, IntelliJ, etc.)
 4. Run the tests from your IDE or use Maven command: `mvn verify`
